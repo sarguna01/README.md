@@ -45,7 +45,7 @@
   
 </div>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=sathish278&show_icons=true&locale=en" alt="sathish278" />
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=sarguna01&show_icons=true&locale=en" alt="sarguna01" />
 
 <h3 align="left">Programming Language Stack:</h3>
 
